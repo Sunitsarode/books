@@ -10,10 +10,10 @@
       class="w-full w-form shadow-lg rounded-lg border relative bg-white"
       style="height: 700px"
     >
-      <!-- Welcome to Frappe Books -->
+      <!-- Welcome to Vedic Books -->
       <div class="px-4 py-4">
         <h1 class="text-2xl font-semibold select-none">
-          {{ t`Welcome to Frappe Books` }}
+          {{ t`Welcome to Vedic Books` }}
         </h1>
         <p class="text-gray-600 text-base select-none">
           {{
@@ -79,7 +79,7 @@
             {{ t`Create Demo` }}
           </p>
           <p class="text-sm text-gray-600">
-            {{ t`Create a demo company to try out Frappe Books` }}
+            {{ t`Create a demo company to try out Vedic Books` }}
           </p>
         </div>
       </div>
